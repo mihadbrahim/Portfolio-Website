@@ -1,0 +1,12 @@
+@media screen and (max-width: 1000px) {
+
+    /* this code doing , when the screen is lower 1200px desktop navtion 
+    is disapeer and display humberger menu  */
+    #desktop-nav {
+        display: none;
+    }
+
+    #hamburger-nav {
+        display: flex;
+    }
+}
